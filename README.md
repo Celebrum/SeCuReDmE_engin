@@ -1,5 +1,4 @@
-# SeCuReDmE_engin
-this his the engin
+
 # SeCuReDmE_engin
 this his the engin
 Template for creation of neural road map
